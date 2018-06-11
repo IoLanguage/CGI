@@ -1,7 +1,7 @@
 # CGI 
 CGI supports accessing CGI parameters passed in environment variables or standard input by a web servers like Apache. Example use:
 
-```
+```Io
 #!./ioServer
 
 cgi = CGI clone
