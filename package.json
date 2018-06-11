@@ -1,0 +1,15 @@
+{
+  "name":         "CGI",
+  "version":      "0.1",
+  "description":  "CGI supports accessing CGI parameters passed in environment variables or standard input by a web servers like Apache.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["CGI"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
